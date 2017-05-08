@@ -1,0 +1,5 @@
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\Fractions\Fractions\bin\Debug\Fractions.dll
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\Fractions\Fractions\bin\Debug\Fractions.pdb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\Fractions\Fractions\obj\Debug\Fractions.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\Fractions\Fractions\obj\Debug\Fractions.dll
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\Fractions\Fractions\obj\Debug\Fractions.pdb
